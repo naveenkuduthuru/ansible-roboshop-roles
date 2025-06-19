@@ -1,0 +1,5 @@
+CART_HOST: cart.joindevops07.shop
+USER_HOST: user.joindevops07.shop
+RABBITMQ_HOST: rabbitmq.joindevops07.shop
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
