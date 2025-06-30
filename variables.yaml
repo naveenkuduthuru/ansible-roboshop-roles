@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.joindevops07.shop # submit your host
+REDIS_HOST: redis.joindevops07.shop
+MYSQL_HOST: mysql.joindevops07.shop
+RABBITMQ_HOST: rabbitmq.joindevops07.shop
+CATALOGUE_HOST: catalogue.joindevops07.shop
+USER_HOST: user.joindevops07.shop
+CART_HOST: cart.joindevops07.shop
+SHIPPING_HOST: shipping.joindevops07.shop
+PAYMENT_HOST: payment.joindevops07.shop
+DISPATCH_HOST: dispatch.joindevops07.shop

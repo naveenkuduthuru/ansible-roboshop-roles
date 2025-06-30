@@ -1,0 +1,12 @@
+MONGODB_HOST: mongodb-prod.joindevops07.shop  # submit your host
+REDIS_HOST: redis-prod.joindevops07.shop 
+MYSQL_HOST: mysql-prod.joindevops07.shop 
+RABBITMQ_HOST: rabbitmq-prod.joindevops07.shop 
+CATALOGUE_HOST: catalogue-prod.joindevops07.shop 
+USER_HOST: user-prod.joindevops07.shop 
+CART_HOST: cart-prod.joindevops07.shop 
+SHIPPING_HOST: shipping-prod.joindevops07.shop 
+PAYMENT_HOST: payment-prod.joindevops07.shop 
+DISPATCH_HOST: dispatch-prod.joindevops07.shop
+NEXUS_URL: http://172.31.5.95:8081/repository
+group_id: "com/roboshop"
